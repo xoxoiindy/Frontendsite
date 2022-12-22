@@ -1,0 +1,25 @@
+{
+  "name": "taxservicesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoxoiindy/Frontendsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoxoiindy/Frontendsite/issues"
+  },
+  "homepage": "https://github.com/xoxoiindy/Frontendsite#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.5"
+  }
+}
